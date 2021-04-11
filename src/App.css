@@ -1,5 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bigelow+Rules&display=swap');
 .App {
   text-align: center;
+}
+body{
+  background: #8E2DE2;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #4A00E0, #8E2DE2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+}
+h1{
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 72px;
+  color: white;
 }
 
 .App-logo {
